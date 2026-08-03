@@ -1,8 +1,8 @@
 <div align="center">
   
-# 백엔드 개발자 홍윤기
+# Hey, I'm Yoonki Hong 👋
 
-## About me
+**About me**
 </div>
 
 특정 기술에 얽매이지 않는 개발자가 되기 위해 **백준에서 1,044개의 문제**를 풀며 자료구조와 알고리즘의 기본기를 다졌습
