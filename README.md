@@ -109,7 +109,7 @@ KAIST Pintos는 x86-64 아키텍처 기반 교육용 운영체제를 구현하�
 
 - **기간**: 2023.12 - 2024.03 · 3개월
 - Python **이미지 일괄 편집 프로그램** 제작.
-- 광고 기획 및 제작 전문 기업 rmsid.net **웹 페이지 퍼블리싱.**
+- 광고 기획 및 제작 전문 기업 [rmsid.net](https://rmsid.net) **웹 페이지 퍼블리싱.**
 - 요구사항에 따라 Java와 Spring Boot로 기존 서비스에 Apple·Facebook·Google·Naver·Kakao **소셜 로그인 연동.**
 
 <br/>
