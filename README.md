@@ -49,7 +49,7 @@ KAIST Pintos는 x86-64 아키텍처 기반 교육용 운영체제를 구현하�
 
 - **초기 메모리 적재 비용**을 줄이기 위해 page fault를 통해 필요한 페이지만 적재하는 **demand paging(lazy loading)** 구현.
 - Priority donation 역전 방지 구현 중 쓰레드 대기열의 선택 복잡도를 **O(n log n)에서 O(n)으로 개선.**
-- swap 메모리를 위해 물리 메모리 **frame eviction을 second-cahnce/clock** 방식으로 구현.
+- swap 메모리를 위해 물리 메모리 **frame eviction을 second-chance/clock** 방식으로 구현.
 
 <br/>
 
