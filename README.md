@@ -15,11 +15,11 @@
 
 ## [부트캠프] Krafton Jungle SW/AI Lab 12기 [2026.03.03 ~ 2026.07.30]
 
-- KRAFTON에서 진행한 컴퓨터공학 기본기를 갖추는 AI-Native 인재 양성 프로그램 진행.
-    - mini-Redis, React 프레임워크, 디스크기반 MiniDB 구현.
-    - x86-64기반 **운영체제** Pintos 구현.
-    - Self-Attention기반 **GPT-3** 모델 구현.
-    - 최종 프로젝트 워크플로우 자동화 플랫폼 **Nodease** 진행.
+- KRAFTON에서 진행한 컴퓨터공학 기본기를 갖추는 AI-Native 인재 양성 프로그램 진행
+    - mini-Redis, React 프레임워크, 디스크기반 MiniDB 구현
+    - x86-64기반 **운영체제** Pintos 구현
+    - Self-Attention기반 **GPT-3** 모델 구현
+    - 최종 프로젝트 워크플로우 자동화 플랫폼 **Nodease** 진행
 
 ## [부트캠프] SSAFY 13기 [2025.01 ~ 2025.03]
 
